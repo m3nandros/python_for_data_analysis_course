@@ -1,0 +1,5 @@
+5000 rubles: 2
+1000 rubles: 0
+500 rubles: 1
+200 rubles: 0
+100 rubles: 0
